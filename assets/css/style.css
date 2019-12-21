@@ -27,9 +27,7 @@ h2{
     font-size: 1em;
 }
 
-/******************
-LAYOUT
-********************/
+
 
 
 
@@ -107,9 +105,7 @@ header .container{
 }
 
 
-/********************
-MAIN BOX CONTENT
-********************/
+
 
 .content{
     width: 960px;
@@ -148,9 +144,7 @@ img.about-photo {
 }
 
 
-/***********************
-Portfolio Page
-***********************/
+
 .image-port{
     width: 270px;
     height: 200px;
@@ -194,9 +188,7 @@ footer {
     z-index: 1000;
 }
 
-/****************************
-Contat Page
-****************************/
+
 
 
 #message{
